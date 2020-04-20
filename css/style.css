@@ -1,0 +1,36 @@
+.card{
+    border: none;
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow:0 3px 5px #ccc;
+    display: inline-block;
+}
+.card-photo{
+    width: 100%;
+}
+
+.card-body{
+    padding: 10px;
+    margin: 0px;
+}
+
+h1{
+font-size: 25px;
+font-family: 微軟正黑體;
+font-weight: bolder;
+margin: 10px;
+}
+
+.h4{
+    color: darkgreen;
+}
+
+.text{
+    color: #000;
+}
+.fas{
+    padding: 5px;
+}
+button{
+    padding: 10px;
+}

@@ -1,0 +1,46 @@
+h1{
+    display: inline;
+}
+a{
+    display: inline-block;
+    width: 300px;
+    height: 200px;
+    background-size: 20px ;
+    background-color:  tomato;
+}
+    link{
+        display: inline-block;
+    }
+
+    .yellowbox{
+        width: 33.33%;
+        height: 200px;
+        background-color: yellow;
+        border: 1px solid;
+        display: inline-block;
+        box-sizing: border-box;
+        margin: 3px;
+        padding: 10px;
+    }
+.picbox{
+    width: 33%;
+    height: 200px;
+    background-image: url(../images/04.gif);
+    display: inline-block;
+    box-sizing: border-box;
+}
+.picbox2{
+    width: 33%;
+    height: 200px;
+    background-image: url(../images/main-bg-1.jpg);
+    display: inline-block;
+    box-sizing: border-box;
+}
+.picbox3{
+    width: 33%;
+    height: 200px;
+    background-image: url(../images/main-bg-2.jpg);
+    display: inline-block;
+    box-sizing: border-box;
+}
+

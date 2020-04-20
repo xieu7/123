@@ -1,0 +1,42 @@
+#logo{
+    width: 200px;
+    float: left;
+    margin: 10px;
+}
+
+body{
+    margin: 0px;
+}
+
+.contaner{
+    width: 1200px;
+    margin: 0px;
+}
+
+.navbar{
+    height: 50px;
+    list-style-type: none;
+    font-size: 14px;
+    background-color: peachpuff;
+    margin: 0px;
+}
+li.navitem{
+    display: inline;
+}
+
+li.navitem a{
+    padding: 5px;
+    color: #555;
+}
+
+li.navitem a:link{
+    text-decoration: none;
+}
+
+li.navitem a:hover{
+    text-decoration: underline;
+}
+
+.floatright{
+    
+}
